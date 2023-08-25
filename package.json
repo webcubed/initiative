@@ -1,0 +1,20 @@
+{
+  "name": "initiative",
+  "version": "1.0.0",
+  "description": "An application designed to improve work efficiency and focusing on tasks or school work",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcubed/initiative.git"
+  },
+  "author": "webcubed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcubed/initiative/issues"
+  },
+  "homepage": "https://github.com/webcubed/initiative#readme"
+}
